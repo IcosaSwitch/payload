@@ -1,7 +1,7 @@
 {
-  "atmosphere": "0.10.5",
+  "atmosphere": "0.11.1",
   "incognito": "v0.6.1",
   "lockpick": "v1.8.1",
-  "hekate": "v5.1.2",
+  "hekate": "v5.1.4",
   "argon-nx": "1.1-alpha"
 }
